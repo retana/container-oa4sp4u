@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "retana",
+  "repo": "container-oa4sp4u",
+  "name": "retana",
+  "email": "retana1416@hotmail.com",
+}
